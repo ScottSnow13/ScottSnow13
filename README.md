@@ -1,4 +1,4 @@
-# Scott Snow, GSEC
+# Scott Snow
 
 **`Cyber Professional (Developer/Creator/Student)`**
 
