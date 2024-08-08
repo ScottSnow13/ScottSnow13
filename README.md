@@ -1,6 +1,6 @@
 # Scott Snow
 
-**`Cyber Professional (Developer/Creator/Student)`**
+**`Assured Software and Information Engineer Temp @ GTRI | (Developer/Creator/Student)`**
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;I am a cybersecurity professional with a B.S. in Cybersecurity and minor in Computer Science. I have five verified certifications GCIH, GSEC, Cisco Ethical Hacker, M121, and Introduction to MongoDB certifications, along with multiple known languages Mandarin, Korean, Japanese, and Spanish with OPIc scores. I was a presenter at the Georgia Board of Regents University level, talking about cybersecurity learning, as well as a guest speaker at the UNG Cyber Advisory Council. I was also nominated to be the recipient of the 2024 Cyber Excellence Award from the University of North Georgia.
 
